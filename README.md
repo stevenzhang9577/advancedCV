@@ -35,5 +35,6 @@
 - 根据不同数据集排序结果修改`finetune_on_combine.py`中的list，并修改模型及数据集
 - 运行代码
 > `python finetune_on_combine.py`
-
+### 实验结果
+实验结果及中间结果[点此下载](https://drive.google.com/drive/folders/17_3-VZHwO2xQVKnqK2VCc8t0ZSqC2Nwf?usp=sharing)
 
