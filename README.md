@@ -37,5 +37,4 @@
 > `python finetune_on_combine.py`
 ### 实验结果
 实验结果及中间结果[点此下载](https://drive.google.com/drive/folders/17_3-VZHwO2xQVKnqK2VCc8t0ZSqC2Nwf?usp=sharing)
-(文件较大，结果正在努力上传中)
 
